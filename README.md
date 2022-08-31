@@ -1,6 +1,13 @@
-<a href="https://www.mle-days.hamburg"><img src="https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg"  width="300" height="300"></a>
-<a href="https://www.mle-school.hamburg"><img src="https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg"  width="300" height="300"></a>
-
+<table>
+  <tr>
+    <th>
+      <a href="https://www.mle-days.hamburg"><img src="https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg"  width="300" height="300"></a>
+     </th>
+    <th> 
+       <a href="https://www.mle-school.hamburg"><img src="https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg"  width="300" height="300"></a>
+    </th>
+  </tr>
+</table>
 # MLE Days and MLE Summer School 2022
 
 Materials for MLE Days and Summer School 2022 at TUHH
