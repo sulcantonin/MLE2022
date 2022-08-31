@@ -5,6 +5,8 @@ Materials for MLE Days and Summer School 2022 at TUHH
 ## MLE Summer School 2022
 13.09.2022, 10:30 - 11:10 
 
+Link to the session https://mle-school.hamburg/use-case-desy-i.html
+
 ### (EN) Machine Learning for Anomaly Detection
 _Identification of unexpected behavior of some complex systems can provide us with valuable information about an ongoing problem. While nowadays, we often face an abundance of data, it is getting more and more valuable to identify either novel patterns or anomalies without very little or any human intervention. In this talk, we are going to introduce important concepts of anomaly detection. We present a taxonomy of anomalies since not all anomalies are clearly bounded by their intuitive meaning of sudden variation of some dimensions. Then we further introduce some concepts from state-of-the-art anomaly detection which uses currently the most popular machine learning framework Pytorch and explain and show some practical examples of one-class, semi-supervised learning and adversarial losses to train models to identify anomalies. Within the course, we give a particular emphasis to the intuitive understanding and ease of implementation which will be presented in simple Jupyter Notebooks. _
 
