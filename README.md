@@ -1,9 +1,5 @@
-![mle days]( "MLE Days"){:width="256px"}
-
-<img src="https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg"  width="300" height="300">
-
-![mle school](https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg "MLE Days"){:width="256px"}
-
+<a href="https://www.mle-days.hamburg"><img src="https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg"  width="300" height="300"></a>
+<a href="https://www.mle-school.hamburg"><img src="https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg"  width="300" height="300"></a>
 
 # MLE Days and MLE Summer School 2022
 
