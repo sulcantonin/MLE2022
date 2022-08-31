@@ -2,7 +2,6 @@
 
 
 MLE Days             |  MLE School
-:-------------------------:|:-------------------------:
 ![mle days](https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg "MLE Days")  |  ![mle school](https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg "MLE Days")
 
 
