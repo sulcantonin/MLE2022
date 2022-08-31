@@ -1,3 +1,6 @@
+![mle days](https://www.mle-days.hamburg/assets/images/logo_mle_days_horizontal_white_22.svg "MLE Days")
+![mle days](https://mle-school.hamburg/assets/images/logo_mle_summer_school22_white.svg "MLE Days")
+
 # MLE Days and MLE Summer School 2022
 
 Materials for MLE Days and Summer School 2022 at TUHH
