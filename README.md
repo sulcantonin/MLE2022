@@ -28,14 +28,7 @@ Materials for MLE Days and Summer School 2022 at TUHH presented by Antonin Sulc,
 ## MLE Summer School 2022
 13.09.2022, 10:30 - 11:10 
 
-* [pdf](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Days.pdf) 
-* [link](https://mle-school.hamburg/use-case-desy-i.html) 
-* [(ipynb basics)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Basics.ipynb) 
-* [(ipynb autoencoder)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Autoenc.ipynb) 
-* [(ipynb one class loss)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_OCL.ipynb) 
-* [(ipynb semi-supervised anomaly loss)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_SAD.ipynb) 
-* [(ipynb anogan)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_GAN.ipynb) [(ipynb orbits)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_orbits.ipynb) 
-* [(ipynb cavity)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_cavity.ipynb)
+[pdf](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Days.pdf) [link](https://mle-school.hamburg/use-case-desy-i.html) [(ipynb basics)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Basics.ipynb) [(ipynb autoencoder)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_Autoenc.ipynb) [(ipynb one class loss)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_OCL.ipynb) [(ipynb semi-supervised anomaly loss)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_SAD.ipynb) [(ipynb anogan)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_GAN.ipynb) [(ipynb orbits)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_orbits.ipynb) [(ipynb cavity)](https://github.com/sulcantonin/MLE2022/blob/main/MLE_cavity.ipynb)
 
 * Error on Slide 23 with wrong exponentiation of the loss Semi Supervised Anomaly Detection is fixed now, sorry for confusion*
 
